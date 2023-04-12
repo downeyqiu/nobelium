@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Jades blog',
   author: 'Jade Yau',
-  email: 'jindongyau@outlook.com',
+  email: 'fakeemail@outlook.com',
   link: 'https://nobelium.vercel.app',
   description: 'This gonna be an awesome website.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
